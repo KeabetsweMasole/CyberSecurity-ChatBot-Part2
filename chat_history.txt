@@ -1,0 +1,14 @@
+User -> password
+Chat AI -> password: Avoid using the same password for multiple accounts.
+User -> password
+Chat AI -> password: Consider using a password manager to generate and store secure passwords.
+User -> worried password 
+Chat AI -> I see you're worried. Let's talk about it.
+User -> worried password 
+Chat AI -> password: Use complex passwords with at least 12 characters, including symbols and numbers.
+User -> history
+Chat AI -> I'm only allowed to provide information about cybersecurity. Please ask a cybersecurity-related question.
+User -> password
+Chat AI -> password: Always use strong passwords with a mix of letters, numbers, and symbols.
+User -> p
+Chat AI -> I'm only allowed to provide information about cybersecurity. Please ask a cybersecurity-related question.
